@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    @apply bg-gray-200 w-full h-full
+}
+
+html {
+    @apply w-full h-full
+}
+
+#__nuxt {
+    @apply w-full h-full
+}
